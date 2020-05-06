@@ -45,8 +45,8 @@ $ docker build --rm -t <nome_da_imagem> .
 $ docker run -p 3000:3000 <nome_da imagem>
 ```
 
-> Se quiser a usar a imagem já disponível no dockerhub, user
-`diogodomanski/maratona-fullcycle2-desafio2` como `<nome_da_imagem>`
+> Se quiser a usar a imagem já disponível no dockerhub, use
+[diogodomanski/maratona-fullcycle2-desafio1](https://hub.docker.com/repository/docker/diogodomanski/maratona-fullcycle2-desafio1) como `<nome_da_imagem>`
 
 ## Subindo a imagem para o Docker Hub
 Esse passo só é necessário caso você queira suber a sua imagem própria desse projeto para o Docker Hub.
